@@ -1,7 +1,5 @@
-### Hi there 👋
-
-I am Marko Nikolić
-
+### Hi there, I'm [Marko!](https://github.com/marko9827) 👋
+ 
  - 🔢 Basic info 
  - 🥇 Developer
  - 🔢 98.g
@@ -11,7 +9,7 @@ I am Marko Nikolić
  🔢 Scientific repositories (Access required is private !!! But it will soon be for the future, available to everyone!) 
 
 
-# Some of the scientific projects that are located as repositories : 
+> Some of the scientific projects that are located as repositories : 
 
  - Science 3D Simulation
  - Social Bussines network
