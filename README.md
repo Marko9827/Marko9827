@@ -2,7 +2,7 @@
  
  | Instagram    | Linkedin    |
 | ----------- | ----------- |
-| [ ![access](access/011-instagram.svg)](https://instagram.com/nikoliccc02)  | [ ![access](access/010-linkedinv2.svg)](https://www.linkedin.com/in/markonikolic98/)  |
+| [ ![access](https://raw.githubusercontent.com/Marko9827/Marko9827/master/access/011-instagram.svg)](https://instagram.com/nikoliccc02)  | [ ![access](https://raw.githubusercontent.com/Marko9827/Marko9827/master/access/010-linkedinv2.svg)](https://www.linkedin.com/in/markonikolic98/)  |
  - 🔢 Basic info 
  - 🥇 Developer
  - 🔢 98.g
