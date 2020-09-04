@@ -1,11 +1,8 @@
 ### Hi there, I'm [Marko!](https://github.com/marko9827) 👋
  
-[ ![access](access/011-instagram.svg)
-](https://instagram.com/nikoliccc02) 
-
-[ ![access](access/010-linkedinv2.svg)
-](https://www.linkedin.com/in/markonikolic98/) 
-
+ | Instagram    | Linkedin    |
+| ----------- | ----------- |
+| [ ![access](access/011-instagram.svg)](https://instagram.com/nikoliccc02)  | [ ![access](access/010-linkedinv2.svg)](https://www.linkedin.com/in/markonikolic98/)  |
  - 🔢 Basic info 
  - 🥇 Developer
  - 🔢 98.g
