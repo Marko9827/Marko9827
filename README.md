@@ -6,9 +6,10 @@ I am Marko Nikolić
  - 🥇 Developer
  - 🔢 98.g
  
+ :heart: I like experimenting with new technologies, building small and big projects, and I adore challenging projects. Because you learn the most from them!
  
->  🔢 Scientific repositories (Access required is private !!! But it will soon be for the future, available to everyone!) 🔢 
-> 
+ 🔢 Scientific repositories (Access required is private !!! But it will soon be for the future, available to everyone!) 
+
 
 # Some of the scientific projects that are located as repositories : 
 
