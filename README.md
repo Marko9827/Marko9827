@@ -1,7 +1,7 @@
 ### Hi there, I'm [Marko!](https://github.com/marko9827) 👋
  
-[ ![access](access/011-instagram.svg)
-](http://) 
+[ ![access](https://raw.githubusercontent.com/Marko9827/Marko9827/master/access/011-instagram.svg)
+](http://instagram.com/nikoliccc02) 
 
  - 🔢 Basic info 
  - 🥇 Developer
