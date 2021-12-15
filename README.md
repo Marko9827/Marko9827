@@ -35,3 +35,4 @@ For projects that are private. Contact me at linkedin!!!
 
 [![stats](https://github-readme-stats.vercel.app/api?username=marko9827&show_icons=true&locale=en)](https://github.com/Marko9827)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marko9827&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
