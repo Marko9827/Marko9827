@@ -32,3 +32,6 @@ For projects that are private. Contact me at linkedin!!!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marko9827&repo=Phpminify)](https://github.com/Marko9827/Phpminify)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marko9827&layout=compact)](https://github.com/Marko9827/interaktivmarket_2020)
+
+[![stats](https://github-readme-stats.vercel.app/api?username=marko9827&show_icons=true&locale=en)](https://github.com/Marko9827)
+
