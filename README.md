@@ -27,8 +27,8 @@ For projects that are private. Contact me at linkedin!!!
  ![access](access/marko9827-eronelitQ.png)
 
 
-# The last public repository
+# The last public repository [Composer package]
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marko9827&repo=MotorCentrifugalniVentilator)](https://github.com/Marko9827/MotorCentrifugalniVentilator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marko9827&repo=Phpminify)](https://github.com/Marko9827/Phpminify)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marko9827&layout=compact)](https://github.com/Marko9827/interaktivmarket_2020)
